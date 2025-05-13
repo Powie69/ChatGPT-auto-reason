@@ -7,6 +7,9 @@
 // @match        https://chatgpt.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com
 // @grant        none
+// @updateURL    https://github.com/Powie69/ChatGPT-auto-reason/raw/refs/heads/main/auto-reason.min.user.js
+// @downloadURL  https://github.com/Powie69/ChatGPT-auto-reason/raw/refs/heads/main/auto-reason.min.user.js
+// @supportURL   https://github.com/Powie69/ChatGPT-auto-reason/issues
 // @run-at       document-idle
 // ==/UserScript==
 
